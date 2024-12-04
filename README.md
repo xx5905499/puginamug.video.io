@@ -17,9 +17,9 @@
 
 <meta charset="UTF-8">
 <link rel="icon" type="image/png" href="favicon.ico" />
-<meta name="description" content="TTVgames EZ W 100% MY GAMES">
+<meta name="description" content="xx5_ttvs esay 100% MY GAMES">
 <meta name="author" content="PoopooumgoodTTV">
-<link rel="stylesheet" href="https://ttvpoopooumgood.github.io/turtlegames/css/main.css">
+<link rel="stylesheet" href="https://xx5905499.github.io/turtlegames/css/main.css">
 <script>src="Looking in code i see?"</script>
 <head>
 <link rel="icon" type="image/png" href="favicon.ico" />
